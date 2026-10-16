@@ -126,8 +126,7 @@ Depois de adicionar os ficheiros originais, abrir o `.kicad_pro` no KiCad e conf
 
 ## Autoria
 
-O identificador associado ao projeto é `Kayaboook`, conforme o endereço inscrito no código da PCB. Os nomes completos dos autores não foram confirmados neste pacote. A autoria e a autorização dos restantes elementos do grupo devem ser revistas antes da publicação.
-
+O identificador associado ao projeto é `Kayaboook`, conforme o endereço inscrito no código da PCB.
 ## Licença
 
 Não foi atribuída uma licença neste pacote. A disponibilização pública não concede, por si só, uma licença de reutilização. Os autores devem selecionar uma licença adequada e respeitar as licenças das bibliotecas e modelos de terceiros.
