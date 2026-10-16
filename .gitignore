@@ -1,0 +1,9 @@
+# Estado local e cópias de segurança KiCad
+*.kicad_prl
+*.lck
+~*.lck
+*-backups/
+_autosave-*
+*.bak
+.DS_Store
+Thumbs.db

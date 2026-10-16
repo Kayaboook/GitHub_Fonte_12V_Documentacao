@@ -1,0 +1,12 @@
+﻿Referencia,Quantidade,Valor,Footprint,Estado
+D1-D4,4,1N4007,Diode_THT:D_DO-41_SOD81_P7.62mm_Horizontal,Esclarecer SOD68 no enunciado
+C1,1,470uF/25V apresentado,Capacitor_THT:CP_Radial_D6.3mm_P2.50mm,Rever tensao nominal e altura
+"C3,C4",2,100nF,Capacitor_SMD:C_1206_3216Metric,Confirmar ceramicos e tensao nominal
+IC2,1,LM7812,Package_TO_SOT_THT:TO-220-3_Vertical,Confirmar fabricante e variante
+R1,1,4.7k,Resistor_SMD:R_0603_1608Metric,Confirmar potencia e tolerancia
+D5,1,LED,LED_SMD:LED_0805_2012Metric,Confirmar cor e polaridade
+J1,1,4300.0104,Samacsys:43000104,Confirmar pinagem
+J2,1,GMSTBA 1x02 P7.62 horizontal,Confirmar nome completo no CAD,Rever referencia comercial
+SW1,1,SW_SPDT,Button_Switch_SMD:SW_SPDT_PCM12,Confirmar ligacao
+F1,1,Fuse,Suporte 5x20 Bulgin FX0457 horizontal,Definir calibre; confirmar footprint completo
+H1,1,SK104 25.4,Samacsys:SK104254STCTO220,Validar termica e montagem
